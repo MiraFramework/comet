@@ -1,0 +1,16 @@
+{
+    "name": "miraframework/comet",
+    "description": "Service Provider for Mira Framework to add shorthand capabilities to common templating problems",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Mancuso",
+            "email": "jmancuso.mil@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "miraframework/render": "^0.1",
+    }
+}
