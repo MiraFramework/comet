@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "miraframework/render": "^0.1"
+        "miraframework/render": "^2.0"
     }
 }
